@@ -1,4 +1,13 @@
 {
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "type": "module",
   "dependencies": {
     "three": "^0.144.0"
   }
